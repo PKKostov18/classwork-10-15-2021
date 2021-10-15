@@ -1,5 +1,10 @@
 package com.codingburgas.classwork;
 
+import com.codingburgas.classwork1.*;
+
 public class Classwork {
-	//PROJECT
+	
+	Item item = new Item();
+	
+	
 }
